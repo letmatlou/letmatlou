@@ -39,12 +39,9 @@
 
 ## `> how_i_build`
 
-| | Principle | In practice |
-|:-:|---|---|
-| 🛡️ | **Fail closed** | If a safety check can't be completed, the system stops instead of guessing |
-| 🔑 | **Secrets stay out of code** | Keys live in env files and credential stores, never in git |
-| 🤖 | **AI is untrusted input** | Agents draft; a person approves anything that leaves the building |
-| 📏 | **Report what's true** | Tests, real numbers and negative results, not hype |
+<p align="center">
+  <img src="assets/how-i-build.svg" width="100%" alt="How I build: fail closed; secrets stay out of code; AI is untrusted input; report what's true" />
+</p>
 
 <img src="assets/divider.svg" width="100%" alt="" />
 
