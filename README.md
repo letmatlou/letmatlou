@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Lethabo Matlou: Security & Network Engineering, Automation, Cloud & AI" />
+  <a href="https://www.linkedin.com/in/lethabo-matlou-646486388/"><img src="assets/banner.svg" width="100%" alt="Lethabo Matlou: Security & Network Engineering, Automation, Cloud & AI" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+systems+that+fail+safe.;Automation+%2B+data+pipelines+%2B+AI+agents+with+guardrails.;Currently%3A+Cisco+Ethical+Hacker+%E2%80%94+module+3.;BSc+IT%3A+Security+%26+Network+Engineering+%40+Eduvos." alt="Typing intro" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+systems+that+fail+safe.;Automation+%2B+data+pipelines+%2B+AI+agents+with+guardrails.;Currently%3A+Cisco+Ethical+Hacker+%E2%80%94+module+3.;BSc+IT%3A+Security+%26+Network+Engineering+%40+Eduvos." alt="Typing intro" /></a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/lethabo-matlou-646486388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=060912" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Open_to-Internships-22D3EE?logoColor=060912&style=for-the-badge&labelColor=060912" alt="Open to internships" />
+  <a href="https://www.linkedin.com/in/lethabo-matlou-646486388/"><img src="https://img.shields.io/badge/Open_to-Internships-22D3EE?logoColor=060912&style=for-the-badge&labelColor=060912" alt="Open to internships" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<a href="#"><img src="assets/divider.svg" width="100%" alt="" /></a>
 
 ## `> whoami`
 
 <p align="center">
-  <img src="assets/whoami.svg" width="100%" alt="whoami: Lethabo Matlou, BSc IT Security & Network Engineering @ Eduvos, 13 distinctions across 19 modules, Cisco Ethical Hacker labs, Johannesburg" />
+  <a href="#"><img src="assets/whoami.svg" width="100%" alt="whoami: Lethabo Matlou, BSc IT Security & Network Engineering @ Eduvos, 13 distinctions across 19 modules, Cisco Ethical Hacker labs, Johannesburg" /></a>
 </p>
 
 ## `> featured_builds`
@@ -59,9 +59,9 @@
 ## `> how_i_build`
 
 <p align="center">
-  <img src="assets/how-i-build.svg" width="100%" alt="How I build: fail closed; secrets stay out of code; AI is untrusted input; report what's true" />
+  <a href="#"><img src="assets/how-i-build.svg" width="100%" alt="How I build: fail closed; secrets stay out of code; AI is untrusted input; report what's true" /></a>
 </p>
 
-<img src="assets/divider.svg" width="100%" alt="" />
+<a href="#"><img src="assets/divider.svg" width="100%" alt="" /></a>
 
 <p align="center"><sub><code>building in public from Johannesburg 🇿🇦</code></sub></p>
