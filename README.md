@@ -26,7 +26,7 @@
   <a href="https://github.com/letmatlou/cisco-ethical-hacker-labs"><img src="assets/card-cisco-labs-v2.svg" width="49%" alt="cisco-ethical-hacker-labs: 4 lab write-ups" /></a>
 </p>
 
-<sub>Coming next: a self-hosted outreach platform where the database enforces consent and AI replies wait for a human.</sub>
+<p align="center"><b>Coming next:</b> a self-hosted outreach platform where the database enforces consent and AI replies wait for a human.</p>
 
 ## `> toolbox`
 
