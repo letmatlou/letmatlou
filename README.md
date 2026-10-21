@@ -1,62 +1,57 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=39FF14&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Lethabo+%F0%9F%91%8B;Security+%26+Network+Engineering+student;I+build+systems+that+fail+safe;Cisco+Ethical+Hacker+%E2%80%94+in+progress" alt="Typing intro" />
-
-<a href="https://www.linkedin.com/in/lethabo-matlou-646486388/"><img src="https://img.shields.io/badge/LinkedIn-Lethabo_Matlou-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://img.shields.io/badge/Based_in-Johannesburg,_ZA-111111?style=for-the-badge&logo=googlemaps&logoColor=39FF14" alt="Johannesburg" /> <img src="https://img.shields.io/badge/Open_to-Internships-39FF14?style=for-the-badge&labelColor=111111" alt="Open to internships" />
-
-</div>
-
-```bash
-$ whoami
-lethabo-matlou  # BSc IT: Security & Network Engineering @ Eduvos (2nd year)
-
-$ cat focus.txt
-→ cloud, data and AI automation, with security designed in from the start
-→ now studying: Network Security · Enterprise Network Management · IoT Security
-→ now hacking: Cisco Ethical Hacker labs (Kali, Nmap, Wireshark, Scapy)
-
-$ grep -c distinction transcript.txt
-13   # out of 19 modules so far
-```
-
-### 🛠️ Featured builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[trading-agent](https://github.com/letmatlou/trading-agent)** · Python · SQLite · pytest
-
-A paper-only swing-trading agent. Every order passes one gateway that **fails closed**: wrong endpoint, wrong key type or wrong account type, and nothing is sent. A kill switch, human-owned risk limits, validated market data, deterministic backtests against random and buy-and-hold baselines, and an honest verdict: *no evidence of an edge yet*.
-
-</td>
-<td width="50%" valign="top">
-
-**[cisco-ethical-hacker-labs](https://github.com/letmatlou/cisco-ethical-hacker-labs)** · Kali · Nmap · Wireshark
-
-Write-ups from my own lab: a pentest scope written against POPIA and the Cybercrimes Act, 23 services fingerprinted with Nmap, a Telnet password read straight off the wire, and scan results matched to CVEs on NIST's database with a small Bash tool.
-
-</td>
-</tr>
-</table>
-
-**Being published next:** a self-hosted outreach platform where the database enforces consent and AI replies wait for a human · n8n automation pipelines.
-
-### 🧰 Toolbox
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,linux,kali,bash,docker,git,postgres,supabase,sqlite,ts,nextjs,vite&perline=12" alt="Skills" />
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Lethabo Matlou: Security & Network Engineering, Automation, Cloud & AI" />
 </p>
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco Packet Tracer" /> <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white" alt="Nmap" /> <img src="https://img.shields.io/badge/Pinecone_RAG-2E7D5B?style=flat-square" alt="Pinecone RAG" /> <img src="https://img.shields.io/badge/Claude_%26_OpenAI_APIs-D97757?style=flat-square" alt="LLM APIs" /> <img src="https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white" alt="Fedora" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+systems+that+fail+safe.;Automation+%2B+data+pipelines+%2B+AI+agents+with+guardrails.;Currently%3A+Cisco+Ethical+Hacker+%E2%80%94+module+3.;BSc+IT%3A+Security+%26+Network+Engineering+%40+Eduvos." alt="Typing intro" />
+</p>
 
-### 🔐 How I build
+<p align="center">
+  <a href="https://www.linkedin.com/in/lethabo-matlou-646486388/"><img src="https://img.shields.io/badge/LinkedIn-Connect-1D4ED8?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=060912" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Open_to-Internships-22D3EE?logoColor=060912&style=for-the-badge&labelColor=060912" alt="Open to internships" />
+</p>
 
-- **Fail closed.** If a safety check can't be completed, the system stops instead of guessing.
-- **Secrets stay out of code.** Keys live in env files and credential stores, never in git.
-- **Treat AI as untrusted input.** Agents draft; people approve anything that leaves the building.
-- **Report what's true.** Tests, numbers and negative results, not hype.
+<img src="assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-<sub>Currently: Cisco Ethical Hacker module 3 · building in public from Johannesburg 🇿🇦</sub>
-</div>
+## `> whoami`
+
+```yaml
+name:       Lethabo Matlou
+studying:   BSc IT — Security & Network Engineering @ Eduvos (2nd year)
+record:     13 distinctions across 19 modules
+right_now:  Network Security · Enterprise Network Management · IoT Security
+hacking:    Cisco Ethical Hacker labs — Kali, Nmap, Wireshark, Scapy
+building:   automation, data pipelines and AI agents with guardrails
+based_in:   Johannesburg, South Africa
+```
+
+## `> featured_builds`
+
+<p align="center">
+  <a href="https://github.com/letmatlou/trading-agent"><img src="assets/card-trading-agent.svg" width="49%" alt="trading-agent: paper-only Python trading agent, 235 tests" /></a>
+  <a href="https://github.com/letmatlou/cisco-ethical-hacker-labs"><img src="assets/card-cisco-labs.svg" width="49%" alt="cisco-ethical-hacker-labs: 4 lab write-ups" /></a>
+</p>
+
+<sub>Coming next: a self-hosted outreach platform where the database enforces consent and AI replies wait for a human, and my n8n automation pipelines.</sub>
+
+## `> toolbox`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,docker,git,postgres,supabase,sqlite,ts,nextjs,vite&perline=12&theme=dark" alt="Skills" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-0D1220?logo=n8n&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="n8n" /> <img src="https://img.shields.io/badge/Wireshark-0D1220?logo=wireshark&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Wireshark" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0D1220?logo=cisco&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Cisco Packet Tracer" /> <img src="https://img.shields.io/badge/Nmap-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Nmap" /> <img src="https://img.shields.io/badge/Pinecone_RAG-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Pinecone RAG" /> <img src="https://img.shields.io/badge/Claude_%26_OpenAI_APIs-0D1220?logo=anthropic&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="LLM APIs" /> <img src="https://img.shields.io/badge/HubSpot_API-0D1220?logo=hubspot&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="HubSpot API" /> <img src="https://img.shields.io/badge/Fedora-0D1220?logo=fedora&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Fedora" />
+</p>
+
+## `> how_i_build`
+
+| | Principle | In practice |
+|:-:|---|---|
+| 🛡️ | **Fail closed** | If a safety check can't be completed, the system stops instead of guessing |
+| 🔑 | **Secrets stay out of code** | Keys live in env files and credential stores, never in git |
+| 🤖 | **AI is untrusted input** | Agents draft; a person approves anything that leaves the building |
+| 📏 | **Report what's true** | Tests, real numbers and negative results, not hype |
+
+<img src="assets/divider.svg" width="100%" alt="" />
+
+<p align="center"><sub><code>building in public from Johannesburg 🇿🇦</code></sub></p>
