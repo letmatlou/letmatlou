@@ -15,15 +15,9 @@
 
 ## `> whoami`
 
-```yaml
-name:       Lethabo Matlou
-studying:   BSc IT — Security & Network Engineering @ Eduvos (2nd year)
-record:     13 distinctions across 19 modules
-right_now:  Network Security · Enterprise Network Management · IoT Security
-hacking:    Cisco Ethical Hacker labs — Kali, Nmap, Wireshark, Scapy
-building:   automation, data pipelines and AI agents with guardrails
-based_in:   Johannesburg, South Africa
-```
+<p align="center">
+  <img src="assets/whoami.svg" width="100%" alt="whoami: Lethabo Matlou, BSc IT Security & Network Engineering @ Eduvos, 13 distinctions across 19 modules, Cisco Ethical Hacker labs, Johannesburg" />
+</p>
 
 ## `> featured_builds`
 
