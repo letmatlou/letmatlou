@@ -28,11 +28,11 @@ based_in:   Johannesburg, South Africa
 ## `> featured_builds`
 
 <p align="center">
-  <a href="https://github.com/letmatlou/trading-agent"><img src="assets/card-trading-agent.svg" width="49%" alt="trading-agent: paper-only Python trading agent, 235 tests" /></a>
+  <a href="https://github.com/letmatlou/n8n-lead-engine"><img src="assets/card-lead-engine.svg" width="49%" alt="n8n-lead-engine: 10 n8n workflows, 249 nodes" /></a>
   <a href="https://github.com/letmatlou/cisco-ethical-hacker-labs"><img src="assets/card-cisco-labs.svg" width="49%" alt="cisco-ethical-hacker-labs: 4 lab write-ups" /></a>
 </p>
 
-<sub>Coming next: a self-hosted outreach platform where the database enforces consent and AI replies wait for a human, and my n8n automation pipelines.</sub>
+<sub>Coming next: a self-hosted outreach platform where the database enforces consent and AI replies wait for a human.</sub>
 
 ## `> toolbox`
 
