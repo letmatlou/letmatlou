@@ -19,21 +19,28 @@ $ grep -c distinction transcript.txt
 13   # out of 19 modules so far
 ```
 
-### 🛠️ Featured build
+### 🛠️ Featured builds
 
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
 **[trading-agent](https://github.com/letmatlou/trading-agent)** · Python · SQLite · pytest
 
 A paper-only swing-trading agent. Every order passes one gateway that **fails closed**: wrong endpoint, wrong key type or wrong account type, and nothing is sent. A kill switch, human-owned risk limits, validated market data, deterministic backtests against random and buy-and-hold baselines, and an honest verdict: *no evidence of an edge yet*.
 
 </td>
+<td width="50%" valign="top">
+
+**[cisco-ethical-hacker-labs](https://github.com/letmatlou/cisco-ethical-hacker-labs)** · Kali · Nmap · Wireshark
+
+Write-ups from my own lab: a pentest scope written against POPIA and the Cybercrimes Act, 23 services fingerprinted with Nmap, a Telnet password read straight off the wire, and scan results matched to CVEs on NIST's database with a small Bash tool.
+
+</td>
 </tr>
 </table>
 
-**Being published next:** Cisco Ethical Hacker lab write-ups · a self-hosted outreach platform where the database enforces consent and AI replies wait for a human · n8n automation pipelines.
+**Being published next:** a self-hosted outreach platform where the database enforces consent and AI replies wait for a human · n8n automation pipelines.
 
 ### 🧰 Toolbox
 
