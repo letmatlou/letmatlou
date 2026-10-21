@@ -30,40 +30,46 @@
 
 ## `> toolbox`
 
-<div align="center">
-<table width="100%">
-<tr>
-<td align="right" width="190"><code>languages</code><br/><sub>what I write</sub></td>
-<td>
-<a href="https://www.python.org" title="Python"><img align="middle" src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a> <a href="https://www.gnu.org/software/bash/" title="Bash"><img align="middle" src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /></a> <a href="https://www.typescriptlang.org" title="TypeScript"><img align="middle" src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>
-</td>
-</tr>
-<tr>
-<td align="right" width="190"><code>security · net</code><br/><sub>what I test and break</sub></td>
-<td>
-<a href="https://www.kali.org" title="Kali Linux"><img align="middle" src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux" /></a> <a href="https://www.kernel.org" title="Linux"><img align="middle" src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /></a> <a href="https://www.wireshark.org" title="Wireshark"><img align="middle" src="https://img.shields.io/badge/Wireshark-0D1220?logo=wireshark&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Wireshark" /></a> <a href="https://nmap.org" title="Nmap"><img align="middle" src="https://img.shields.io/badge/Nmap-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Nmap" /></a> <a href="https://www.netacad.com/cisco-packet-tracer" title="Cisco Packet Tracer"><img align="middle" src="https://img.shields.io/badge/Cisco_Packet_Tracer-0D1220?logo=cisco&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Cisco Packet Tracer" /></a>
-</td>
-</tr>
-<tr>
-<td align="right" width="190"><code>automation · ai</code><br/><sub>what I build with</sub></td>
-<td>
-<a href="https://n8n.io" title="n8n"><img align="middle" src="https://img.shields.io/badge/n8n-0D1220?logo=n8n&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="n8n" /></a> <a href="https://www.anthropic.com/api" title="Claude API"><img align="middle" src="https://img.shields.io/badge/Claude_API-0D1220?logo=anthropic&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Claude API" /></a> <a href="https://platform.openai.com" title="OpenAI API"><img align="middle" src="https://img.shields.io/badge/OpenAI_API-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="OpenAI API" /></a> <a href="https://developers.hubspot.com" title="HubSpot API"><img align="middle" src="https://img.shields.io/badge/HubSpot_API-0D1220?logo=hubspot&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="HubSpot API" /></a>
-</td>
-</tr>
-<tr>
-<td align="right" width="190"><code>data</code><br/><sub>where it lives</sub></td>
-<td>
-<a href="https://www.postgresql.org" title="PostgreSQL"><img align="middle" src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /></a> <a href="https://supabase.com" title="Supabase"><img align="middle" src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a> <a href="https://www.sqlite.org" title="SQLite"><img align="middle" src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /></a> <a href="https://www.pinecone.io" title="Pinecone"><img align="middle" src="https://img.shields.io/badge/Pinecone-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Pinecone" /></a>
-</td>
-</tr>
-<tr>
-<td align="right" width="190"><code>ship · run</code><br/><sub>how it gets out</sub></td>
-<td>
-<a href="https://www.docker.com" title="Docker"><img align="middle" src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a> <a href="https://git-scm.com" title="Git"><img align="middle" src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a> <a href="https://nextjs.org" title="Next.js"><img align="middle" src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a> <a href="https://vite.dev" title="Vite"><img align="middle" src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" /></a> <a href="https://fedoraproject.org" title="Fedora"><img align="middle" src="https://img.shields.io/badge/Fedora-0D1220?logo=fedora&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Fedora" /></a>
-</td>
-</tr>
-</table>
-</div>
+<p align="center">
+<a href="#"><img src="assets/tb-languages.svg" width="420" alt="languages" /></a><br/>
+<a href="https://www.python.org" title="Python"><img align="middle" src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+<a href="https://www.gnu.org/software/bash/" title="Bash"><img align="middle" src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /></a>
+<a href="https://www.typescriptlang.org" title="TypeScript"><img align="middle" src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>
+</p>
+
+<p align="center">
+<a href="#"><img src="assets/tb-security-networking.svg" width="420" alt="security · networking" /></a><br/>
+<a href="https://www.kali.org" title="Kali Linux"><img align="middle" src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux" /></a>
+<a href="https://www.kernel.org" title="Linux"><img align="middle" src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /></a>
+<a href="https://www.wireshark.org" title="Wireshark"><img align="middle" src="https://img.shields.io/badge/Wireshark-0D1220?logo=wireshark&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Wireshark" /></a>
+<a href="https://nmap.org" title="Nmap"><img align="middle" src="https://img.shields.io/badge/Nmap-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Nmap" /></a>
+<a href="https://www.netacad.com/cisco-packet-tracer" title="Cisco Packet Tracer"><img align="middle" src="https://img.shields.io/badge/Cisco_Packet_Tracer-0D1220?logo=cisco&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Cisco Packet Tracer" /></a>
+</p>
+
+<p align="center">
+<a href="#"><img src="assets/tb-automation-ai.svg" width="420" alt="automation · ai" /></a><br/>
+<a href="https://n8n.io" title="n8n"><img align="middle" src="https://img.shields.io/badge/n8n-0D1220?logo=n8n&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="n8n" /></a>
+<a href="https://www.anthropic.com/api" title="Claude API"><img align="middle" src="https://img.shields.io/badge/Claude_API-0D1220?logo=anthropic&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Claude API" /></a>
+<a href="https://platform.openai.com" title="OpenAI API"><img align="middle" src="https://img.shields.io/badge/OpenAI_API-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="OpenAI API" /></a>
+<a href="https://developers.hubspot.com" title="HubSpot API"><img align="middle" src="https://img.shields.io/badge/HubSpot_API-0D1220?logo=hubspot&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="HubSpot API" /></a>
+</p>
+
+<p align="center">
+<a href="#"><img src="assets/tb-data.svg" width="420" alt="data" /></a><br/>
+<a href="https://www.postgresql.org" title="PostgreSQL"><img align="middle" src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
+<a href="https://supabase.com" title="Supabase"><img align="middle" src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a>
+<a href="https://www.sqlite.org" title="SQLite"><img align="middle" src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /></a>
+<a href="https://www.pinecone.io" title="Pinecone"><img align="middle" src="https://img.shields.io/badge/Pinecone-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Pinecone" /></a>
+</p>
+
+<p align="center">
+<a href="#"><img src="assets/tb-ship-run.svg" width="420" alt="ship · run" /></a><br/>
+<a href="https://www.docker.com" title="Docker"><img align="middle" src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
+<a href="https://git-scm.com" title="Git"><img align="middle" src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+<a href="https://nextjs.org" title="Next.js"><img align="middle" src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a>
+<a href="https://vite.dev" title="Vite"><img align="middle" src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" /></a>
+<a href="https://fedoraproject.org" title="Fedora"><img align="middle" src="https://img.shields.io/badge/Fedora-0D1220?logo=fedora&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Fedora" /></a>
+</p>
 
 ## `> how_i_build`
 
