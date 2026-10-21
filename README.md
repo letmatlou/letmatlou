@@ -31,10 +31,29 @@
 ## `> toolbox`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,kali,bash,docker,git,postgres,supabase,sqlite,ts,nextjs,vite&perline=12&theme=dark" alt="Skills" />
+  <a href="https://www.python.org" title="Python"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" /></a>
+  <a href="https://www.kernel.org" title="Linux"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /></a>
+  <a href="https://www.kali.org" title="Kali Linux"><img src="https://skillicons.dev/icons?i=kali&theme=dark" width="48" height="48" alt="Kali Linux" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://skillicons.dev/icons?i=bash&theme=dark" width="48" height="48" alt="Bash" /></a>
+  <a href="https://www.docker.com" title="Docker"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /></a>
+  <a href="https://git-scm.com" title="Git"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /></a>
+  <a href="https://www.postgresql.org" title="PostgreSQL"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL" /></a>
+  <a href="https://supabase.com" title="Supabase"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" height="48" alt="Supabase" /></a>
+  <a href="https://www.sqlite.org" title="SQLite"><img src="https://skillicons.dev/icons?i=sqlite&theme=dark" width="48" height="48" alt="SQLite" /></a>
+  <a href="https://www.typescriptlang.org" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /></a>
+  <a href="https://nextjs.org" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" height="48" alt="Next.js" /></a>
+  <a href="https://vite.dev" title="Vite"><img src="https://skillicons.dev/icons?i=vite&theme=dark" width="48" height="48" alt="Vite" /></a>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/n8n-0D1220?logo=n8n&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="n8n" /> <img src="https://img.shields.io/badge/Wireshark-0D1220?logo=wireshark&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Wireshark" /> <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0D1220?logo=cisco&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Cisco Packet Tracer" /> <img src="https://img.shields.io/badge/Nmap-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Nmap" /> <img src="https://img.shields.io/badge/Pinecone_RAG-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Pinecone RAG" /> <img src="https://img.shields.io/badge/Claude_%26_OpenAI_APIs-0D1220?logo=anthropic&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="LLM APIs" /> <img src="https://img.shields.io/badge/HubSpot_API-0D1220?logo=hubspot&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="HubSpot API" /> <img src="https://img.shields.io/badge/Fedora-0D1220?logo=fedora&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Fedora" />
+  <a href="https://n8n.io" title="n8n"><img src="https://img.shields.io/badge/n8n-0D1220?logo=n8n&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="n8n" /></a>
+  <a href="https://www.wireshark.org" title="Wireshark"><img src="https://img.shields.io/badge/Wireshark-0D1220?logo=wireshark&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Wireshark" /></a>
+  <a href="https://www.netacad.com/cisco-packet-tracer" title="Cisco Packet Tracer"><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-0D1220?logo=cisco&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Cisco Packet Tracer" /></a>
+  <a href="https://nmap.org" title="Nmap"><img src="https://img.shields.io/badge/Nmap-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Nmap" /></a>
+  <a href="https://www.pinecone.io" title="Pinecone"><img src="https://img.shields.io/badge/Pinecone-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Pinecone" /></a>
+  <a href="https://www.anthropic.com/api" title="Claude API"><img src="https://img.shields.io/badge/Claude_API-0D1220?logo=anthropic&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Claude API" /></a>
+  <a href="https://platform.openai.com" title="OpenAI API"><img src="https://img.shields.io/badge/OpenAI_API-0D1220?style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="OpenAI API" /></a>
+  <a href="https://developers.hubspot.com" title="HubSpot API"><img src="https://img.shields.io/badge/HubSpot_API-0D1220?logo=hubspot&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="HubSpot API" /></a>
+  <a href="https://fedoraproject.org" title="Fedora"><img src="https://img.shields.io/badge/Fedora-0D1220?logo=fedora&style=flat-square&labelColor=060912&color=0D1220&logoColor=22D3EE" alt="Fedora" /></a>
 </p>
 
 ## `> how_i_build`
